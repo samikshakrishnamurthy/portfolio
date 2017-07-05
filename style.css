@@ -16,6 +16,7 @@ li{
   float: right;
 }
 li a {
+  float: right;
   display: block;
   padding: 8px;
   color: #000000;
