@@ -9,4 +9,17 @@ h2{
    list-style-type: none;
    margin: 0;
    padding: 0;
+   background-color: #FFFFFF;
+}
+
+li{
+  float: left;
+}
+li a {
+  display: block;
+  padding: 8px;
+  color: white;
+}
+li a:hover {
+  background-color: #f9ddff;
 }
