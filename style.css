@@ -6,10 +6,12 @@
 
 h1{
   font-family: ailerons;
+  font-size:large;
      }
 
 h2{
        font-family: ailerons;
+  font-size:large;
      }
  ul{
    list-style-type: none;
@@ -23,6 +25,7 @@ li{
   float: right;
 }
 li a {
+  font-size:large;
   font-family: ailerons;
   display: block;
   text-align: center;
