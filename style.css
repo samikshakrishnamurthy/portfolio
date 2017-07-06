@@ -1,16 +1,16 @@
 @font-face{
-  font-family: ailerons;
-  src: url('ailerons.otf');
+  font-family: stellar;
+  src: url('Stellar-light.otf');
 }
 
 
 h1{
-  font-family: ailerons;
+  font-family: stellar;
   font-size:250%;
      }
 
 h2{
-       font-family: ailerons;
+       font-family: stellar;
   font-size:250%;
      }
  ul{
@@ -25,8 +25,8 @@ li{
   float: right;
 }
 li a {
-  font-size:200%;
-  font-family: ailerons;
+  font-size:150%;
+  font-family: stellar;
   display: block;
   text-align: center;
   color: #000000;
