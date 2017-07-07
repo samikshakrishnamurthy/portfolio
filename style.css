@@ -3,6 +3,9 @@
   src: url('oswaldesque.ttf');
 }
 
+.boxed{
+border: 1 px solid green;
+}
 
 h1{
   font-family: oswaldesque;
