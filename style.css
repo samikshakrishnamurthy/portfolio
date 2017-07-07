@@ -1,19 +1,4 @@
-body{
-        color: inherit;
-        font-family: oswaldesque;
-      }
-      table, th, td{
-        border: 2px solid #01426a;
-        border-collapse: collapse;
-        padding: 15px;
-        text-align: center;
-        vertical-align: middle;
-        color: #01426a
-      }
-      th  {
-        background-color: #ece81a
-      }
-      tr:hover {background-color: #ece81a}
+
 
 @font-face{
   font-family: oswaldesque;
