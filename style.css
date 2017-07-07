@@ -1,16 +1,16 @@
 @font-face{
-  font-family: stellar;
-  src: url('Stellar-light.otf');
+  font-family: oswaldesque;
+  src: url('oswaldesque.ttf');
 }
 
 
 h1{
-  font-family: stellar;
+  font-family: oswaldesque;
   font-size:250%;
      }
 
 h2{
-       font-family: stellar;
+       font-family: oswaldesque;
   font-size:250%;
      }
  ul{
@@ -26,7 +26,7 @@ li{
 }
 li a {
   font-size:150%;
-  font-family: stellar;
+  font-family: oswaldesque;
   display: block;
   text-align: center;
   color: #000000;
