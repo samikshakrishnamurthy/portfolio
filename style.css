@@ -17,6 +17,7 @@
 #header {
   position: fixed;
   width: 100%;
+  top: 0px;
   left: 0;
   height: 50px;
   background: #D3D3D3;
