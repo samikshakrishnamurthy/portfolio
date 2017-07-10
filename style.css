@@ -24,6 +24,8 @@
   text-align: right;
 }
 
+#buttons{
+  
 @font-face{
   font-family: oswaldesque;
   src: url('oswaldesque.ttf');
