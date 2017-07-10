@@ -29,6 +29,7 @@
 }
 
 #description{
+  position: relative;
   font-family: oswaldesque;
   width: 350px;
   margin-left: auto;
