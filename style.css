@@ -1,4 +1,20 @@
 
+#blogtitle {
+  position: fixed;
+  float: left;
+  background: #d9e5f7;
+  color: #fefefe;
+  padding: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  height: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: oswaldesque;
+  font-sizeL 14px;
+  
+    
+
 
 @font-face{
   font-family: oswaldesque;
