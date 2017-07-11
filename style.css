@@ -25,17 +25,19 @@ p{
 }
 
 .button{
-  position: relative;
-  display: inline-block;
-  margin-right: 4px;
-  background: #fefefe;
-  color: #d9e5f7;
-  padding: 8px;
-  padding-top: 3px;
-  padding-bottom: 3px;
-  font-size: 10px;
-  text-transform: uppercase;
-  text-align: center;
+position: relative;
+display: inline-block;
+margin-right: 4px;
+background: #fefefe;
+color: #d9e5f7;
+padding: 8px;
+padding-top: 3px;
+padding-bottom: 3px;
+font-size: 20px;
+text-transform: uppercase;
+text-align: center;
+font-family: oswaldesque;
+top: 10px;
 }
 #header {
   position: fixed;
