@@ -3,6 +3,7 @@ p{
 }
 
 #blogtitle {
+  font-weight: bold;
   position: fixed;
   float: left;
   background: #d9e5f7;
@@ -25,6 +26,7 @@ p{
 }
 
 .button{
+font-weight: bold;
 position: relative;
 display: inline-block;
 margin-right: 4px;
