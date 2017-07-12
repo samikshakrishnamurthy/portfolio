@@ -2,18 +2,19 @@ p{
   font-family: oswaldesque;
 }
 
-me{
+#me{
   width: 300px;
 }
 
-article{
+#plants{
+  width: 300px;
+  border: 25px solid white;
+  padding: 25px;
+  margin: 25px;
   float: left;
-  margin-bottom: 80px;
-  margin-left: 40px;
-  margin-right: 40px;
-  width: 280px;
-  height: auto;
+  left: 20px;
 }
+
 
 #blogtitle {
   font-weight: bold;
