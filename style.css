@@ -7,10 +7,10 @@ p{
 }
 
 .plants{
-  width: 300px;
-  border: 25px solid white;
-  padding: 25px;
-  margin: 25px;
+  width: 320px;
+  border: 10px solid white;
+  padding: 20px;
+  margin: 0px;
   float: left;
   left: 20px;
 }
