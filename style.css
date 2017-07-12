@@ -7,7 +7,8 @@ p{
 }
 
 .plants{
-
+  width: 300px;
+  height: 199px;
   border: 10px solid white;
 
 }
