@@ -8,11 +8,11 @@ p{
 
 .quote{
   width: 300px;
-  height: 199px;
+  height: 300px;
   border: 10px solid white;
   position: relative;
-  top: 150px;
-  left: 100px;
+  top: -50px;
+  left: 400px;
 }
 
 .plants{
