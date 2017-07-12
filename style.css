@@ -2,6 +2,9 @@ p{
   font-family: oswaldesque;
 }
 
+me{
+  width: 300px;
+}
 #blogtitle {
   font-weight: bold;
   position: fixed;
