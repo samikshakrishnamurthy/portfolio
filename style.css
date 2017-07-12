@@ -5,6 +5,16 @@ p{
 me{
   width: 300px;
 }
+
+article{
+  float: left;
+  margin-bottom: 80px;
+  margin-left: 40px;
+  margin-right: 40px;
+  width: 280px;
+  height: auto;
+}
+
 #blogtitle {
   font-weight: bold;
   position: fixed;
