@@ -12,7 +12,7 @@ ul {list-style-type: none;}
 
 /* Month header */
 .month {
-    padding: 70px 25px;
+    padding: 70px 0px;
     width: 100%;
     background: #d9e5f7;
 }
