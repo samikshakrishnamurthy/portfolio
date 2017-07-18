@@ -21,7 +21,7 @@ p{
 }
 
 .info2 {
-  position: fixed;
+  position: relative;
   float: left;
   font-size: 15px;
   color: #d9e5f7;
@@ -30,7 +30,7 @@ p{
   padding-left: 20px;
   padding-right: 20px;
   margin-top: -79px;
-  left: 508px;
+  left: 500px;
   font-family: oswaldesque;
 }
 
