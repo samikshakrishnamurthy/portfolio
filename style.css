@@ -8,7 +8,7 @@ p{
 
 ul {list-style-type: none;}
 
-body {font-family: Verdana, sans-serif;}
+
 
 /* Month header */
 .month {
@@ -24,9 +24,11 @@ body {font-family: Verdana, sans-serif;}
 }
 
 .month ul li {
+    text-align: center;
     font-family: oswaldesque;
+    font-weight: bold;
     color: white;
-    font-size: 20px;
+    font-size: 40px;
     text-transform: uppercase;
     letter-spacing: 3px;
 }
