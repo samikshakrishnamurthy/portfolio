@@ -40,7 +40,9 @@
     </div>
 
 
-          <div id = "journal"> journal entry </div>
+          <div id = "journal"> 
+            <p>journal entry 
+            </p></div>
 
  <div class="month"> 
   <ul>
@@ -100,7 +102,7 @@
               <script>
 var days = document.querySelectorAll('ul.days>li');
       days.onclick = function() {
-      document.querySelector('div#journal').style.display = "block";
+      document.querySelector('div#journal>p').style.display = "block";
       }
       
           </script>
