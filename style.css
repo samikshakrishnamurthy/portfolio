@@ -14,7 +14,7 @@ body {font-family: Verdana, sans-serif;}
 .month {
     padding: 70px 25px;
     width: 100%;
-    background: #1abc9c;
+    background: #d9e5f7;
 }
 
 /* Month list */
@@ -24,6 +24,7 @@ body {font-family: Verdana, sans-serif;}
 }
 
 .month ul li {
+    font-family: oswaldesque;
     color: white;
     font-size: 20px;
     text-transform: uppercase;
@@ -50,6 +51,7 @@ body {font-family: Verdana, sans-serif;}
 }
 
 .weekdays li {
+    font-family: oswaldesque;
     display: inline-block;
     width: 13.6%;
     color: #666;
@@ -64,6 +66,7 @@ body {font-family: Verdana, sans-serif;}
 }
 
 .days li {
+    font-family: oswaldesque;
     list-style-type: none;
     display: inline-block;
     width: 13.6%;
