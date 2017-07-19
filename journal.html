@@ -105,7 +105,7 @@ function getEventTarget(e) {
     return e.target || e.srcElement; 
 }
 
-var ul = document.getElementByClassName('days')[0];
+var ul = document.getElementsByClassName('days')[0];
 ul.onclick = function(event) {
     var target = getEventTarget(event);
     alert(target.innerHTML);
