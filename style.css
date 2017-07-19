@@ -36,9 +36,7 @@ p{
 
 ul {list-style-type: none;}
 
-      days.onclick = function() {
-      document.querySelector('div#journal>p').style.display = "block";
-      }
+
 
 /* Month header */
 .month {
