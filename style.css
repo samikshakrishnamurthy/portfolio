@@ -27,7 +27,7 @@
 }
 
 p{
-  font-family: oswaldesque;
+  font-family: abington;
 }
 
 .me{
@@ -54,7 +54,7 @@ ul {list-style-type: none;}
 
 .month ul li {
     text-align: center;
-    font-family: oswaldesque;
+    font-family: abington;
     font-weight: bold;
     color: white;
     font-size: 40px;
@@ -82,7 +82,7 @@ ul {list-style-type: none;}
 }
 
 .weekdays li {
-    font-family: oswaldesque;
+    font-family: abington;
     display: inline-block;
     width: 13.6%;
     color: #666;
@@ -97,7 +97,7 @@ ul {list-style-type: none;}
 }
 
 .days li {
-    font-family: oswaldesque;
+    font-family: abington;
     list-style-type: none;
     display: inline-block;
     width: 13.6%;
@@ -124,7 +124,7 @@ ul {list-style-type: none;}
   padding-right: 20px;
   margin-top: 71px;
   left: 18px;
-  font-family: oswaldesque;
+  font-family: abington;
 }
 
 .info2 {
@@ -138,7 +138,7 @@ ul {list-style-type: none;}
   padding-right: 20px;
   margin-top: -79px;
   left: 500px;
-  font-family: oswaldesque;
+  font-family: abington;
 }
 
 .info3 {
@@ -152,7 +152,7 @@ ul {list-style-type: none;}
   padding-right: 20px;
   margin-top: 71px;
   left: 55px;
-  font-family: oswaldesque;
+  font-family: abington;
 }
 
 .cat{
@@ -196,7 +196,7 @@ ul {list-style-type: none;}
   height: 20px;
   margin-right: auto;
   margin-left: auto;
-  font-family: oswaldesque;
+  font-family: abington;
 }
  
 .buttons {
@@ -219,7 +219,7 @@ padding-bottom: 3px;
 font-size: 20px;
 text-transform: uppercase;
 text-align: center;
-font-family: oswaldesque;
+font-family: abington;
 top: 10px;
 }
 #header {
@@ -234,13 +234,13 @@ top: 10px;
 
   
 @font-face{
-  font-family: oswaldesque;
-  src: url('oswaldesque.ttf');
+  font-family: abington;
+  src: url('abingtonboldfont.ttf');
 }
 
 #description{
   position: relative;
-  font-family: oswaldesque;
+  font-family: abington;
   width: 350px;
   margin-left: auto;
   margin-right: auto;
@@ -254,13 +254,13 @@ top: 10px;
   
 
 h1{
-  font-family: oswaldesque;
+  font-family: abington;
   font-size:250%;
   text-align: center;
      }
 
 h2{
-       font-family: oswaldesque;
+       font-family: abington;
   font-size:250%;
      }
 #journal {
