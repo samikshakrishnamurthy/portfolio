@@ -14,15 +14,15 @@
 
 /* Set a specific color for each brand */
 
-/* Facebook */
+/* spotify */
 .fa-spotify {
-    background: #fefefe;
+    background: #77825c;
     color: black;
 }
 
-/* Twitter */
+/* instagram */
 .fa-instagram {
-    background: #fefefe;
+    background: #77825c;
     color: black;
 }
 
@@ -223,7 +223,7 @@ font-family: champagne;
 top: 10px;
 }
 #header {
-  position: relative;
+  position: fixed;
   width: 100%;
   top: 0px;
   left: 0;
