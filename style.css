@@ -223,12 +223,12 @@ font-family: champagne;
 top: 10px;
 }
 #header {
-  position: fixed;
+  position: relative;
   width: 100%;
   top: 0px;
   left: 0;
   height: 50px;
-  background: #D3D3D3;
+  background: #caedb4;
   text-align: right;
 }
 
