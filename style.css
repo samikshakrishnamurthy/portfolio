@@ -233,8 +233,15 @@ top: 10px;
 }
 
   
+/* fonts */
+
 @font-face{
   font-family: "abington";
+  src: url('abington-bold-font.ttf');
+}
+
+@font-face{
+  font-family: "champagne";
   src: url('abington-bold-font.ttf');
 }
 
