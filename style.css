@@ -248,7 +248,7 @@ top: 10px;
 #description{
   position: relative;
   font-family: abington;
-  width: 800px;
+  width: 250px;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
@@ -256,6 +256,7 @@ top: 10px;
   padding-right: 30px;
   background: #ffffff;
   text-align: center;
+  font-size: 250%
 }
   
 
