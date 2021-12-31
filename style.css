@@ -158,11 +158,9 @@ ul {list-style-type: none;}
 
 .samiksha{
   width: 300px;
-  height: 225px;
-  border: 10px solid white;
+  height: 300px;
   position: relative;
-  top: -500px;
-  left: 1000px;
+  margin-top: 10px
 }
 
 .quote{
@@ -204,7 +202,7 @@ ul {list-style-type: none;}
   position: relative;
   display: inline-block;
   margin-top: 10px;
-  maring-right: 10px;
+  margin-right: 10px;
 }
 
 .button{
