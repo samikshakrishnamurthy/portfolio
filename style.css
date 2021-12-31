@@ -245,7 +245,20 @@ top: 10px;
   font-family: "champagne";
   src: url('Champagne & Limousines.ttf');
 }
-
+.intro{
+    position: fixed
+  float: left;
+  font-size: 15px;
+  color: #d9e5f7;
+  background: #fefefe;
+  padding: 7px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 71px;
+  left: 18px;
+}
+        
+    
 #description{
   position: relative;
   font-family: abington;
