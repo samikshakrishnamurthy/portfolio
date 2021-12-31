@@ -210,7 +210,7 @@ ul {list-style-type: none;}
 .button{
 font-weight: bold;
 position: relative;
-display: inline-block;
+display: inline;
 margin-right: 4px;
 background: #fefefe;
 color: #000000;
