@@ -162,6 +162,7 @@ ul {list-style-type: none;}
   position: fixed;
   right: 150px;
   margin-top: 100px;
+  border-radius: 15px;
 }
 
 .quote{
