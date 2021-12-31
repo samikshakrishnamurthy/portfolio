@@ -197,7 +197,7 @@ ul {list-style-type: none;}
   height: 20px;
   margin-right: auto;
   margin-left: auto;
-  font-family: abington;
+  font-family: bohemian;
 }
  
 .buttons {
@@ -220,7 +220,7 @@ padding-bottom: 3px;
 font-size: 30px;
 text-transform: lowercase;
 text-align: center;
-font-family: champagne;
+font-family: bohemian;
 top: 10px;
 }
 #header {
@@ -239,6 +239,11 @@ top: 10px;
 @font-face{
   font-family: "abington";
   src: url('abington-bold-font.ttf');
+}
+
+@font-face{
+  font-family: "bohemian";
+  src: url('bohemian.otf');
 }
 
 @font-face{
