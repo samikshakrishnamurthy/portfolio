@@ -5,6 +5,8 @@
   width: 50px;
   text-align: center;
   text-decoration: none;
+  position: relative;
+  left: 600px;
 }
 
 /* Add a hover effect if you want */
