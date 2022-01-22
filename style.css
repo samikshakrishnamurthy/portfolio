@@ -39,6 +39,9 @@ p{
 
 ul {list-style-type: none;}
 
+.grid-container {
+  display: grid;
+}
 
 
 /* Month header */
